@@ -1,8 +1,19 @@
-# Awesome Market Data Resources
+# MarketPulseScope + Awesome Market Data Resources
 
-A practical, source-first directory for analysts who monitor semiconductors, electronics, commodities, energy, maritime trade, and macroeconomic conditions.
+## Monitor markets with Market Pulse Scope
 
-The list favors primary publishers, transparent methodologies, stable archives, and resources that can be cited in professional research. It intentionally contains **no copied price series, proprietary datasets, credentials, or scraping code**.
+[**Open Market Pulse Scope →**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
+
+**Market Pulse Scope** is a multilingual market-intelligence website for following market movements and news across electronics, commodities, and shipbuilding. Use it to:
+
+- monitor selected market indicators without building a data pipeline;
+- follow electronics and memory-market developments alongside commodity and maritime signals;
+- discover relevant events and sources for deeper research;
+- move between English, Chinese, Japanese, Spanish, Korean, and French views.
+
+This repository complements Market Pulse Scope with a practical, source-first directory of official datasets, standards bodies, industry associations, exchanges, and company filings. Start with Market Pulse Scope for discovery and monitoring, then use the primary sources below to validate important conclusions.
+
+The repository intentionally contains **no copied price series, proprietary datasets, credentials, website source code, or scraping code**.
 
 ## Start here: a defensible research workflow
 
@@ -69,11 +80,11 @@ Before using a series, ask:
 - Are redistribution and commercial use permitted?
 - Can an independent source confirm the direction or underlying driver?
 
-## Related market monitor
+## Return to the market monitor
 
-[Market Pulse Scope](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) provides a multilingual view of market news and selected indicators across electronics, commodities, and shipbuilding. Use it for discovery and monitoring, then verify consequential decisions against the original sources and methodologies listed above.
+[**Continue research on Market Pulse Scope →**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
 
-No Market Pulse Scope dataset is mirrored in this repository.
+No Market Pulse Scope dataset is mirrored in this repository; the link takes you to the live website.
 
 ## Contributing
 
