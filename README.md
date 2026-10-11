@@ -1,19 +1,28 @@
 # MarketPulseScope + Awesome Market Data Resources
 
-## Monitor markets with Market Pulse Scope
+## Explore historical data and price trends with Market Pulse Scope
 
 [**Open Market Pulse Scope →**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
 
-**Market Pulse Scope** is a multilingual market-intelligence website for following market movements and news across electronics, commodities, and shipbuilding. Use it to:
+**Market Pulse Scope** is a multilingual market-intelligence website built for exploring historical price data, visualizing price trends, and following market news across electronics, commodities, and shipbuilding. Use it to:
 
-- monitor selected market indicators without building a data pipeline;
+- browse historical observations and visualize price trends across multiple time ranges;
+- review recent and longer-term change summaries, then inspect dated records in a historical table;
 - follow electronics and memory-market developments alongside commodity and maritime signals;
-- discover relevant events and sources for deeper research;
+- use the live charts as a starting point for deeper, source-aware research;
 - move between English, Chinese, Japanese, Spanish, Korean, and French views.
+
+![Market Pulse Scope dashboard with numeric values hidden](assets/marketpulsescope-dashboard-safe.png)
+
+*Public product preview. Numeric values are intentionally hidden in this repository.*
+
+![Market Pulse Scope historical price chart preview](assets/marketpulsescope-history-safe.png)
+
+*Historical-chart preview. The real series and numeric values remain on the live website and are not copied into this public repository.*
 
 This repository complements Market Pulse Scope with a practical, source-first directory of official datasets, standards bodies, industry associations, exchanges, and company filings. Start with Market Pulse Scope for discovery and monitoring, then use the primary sources below to validate important conclusions.
 
-The repository intentionally contains **no copied price series, proprietary datasets, credentials, website source code, or scraping code**.
+The repository intentionally contains **no copied price series, real price values, proprietary datasets, credentials, website source code, or scraping code**. Its screenshots are privacy-safe previews with numeric values and the real chart series hidden.
 
 ## Start here: a defensible research workflow
 
