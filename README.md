@@ -12,17 +12,17 @@
 - use the live charts as a starting point for deeper, source-aware research;
 - move between English, Chinese, Japanese, Spanish, Korean, and French views.
 
-![Market Pulse Scope dashboard with numeric values hidden](assets/marketpulsescope-dashboard-safe.png)
+![Market Pulse Scope dashboard with public market values and trend charts](assets/marketpulsescope-dashboard.png)
 
-*Public product preview. Numeric values are intentionally hidden in this repository.*
+*Public website preview showing market values and trend sparklines visible on Market Pulse Scope at capture time.*
 
-![Market Pulse Scope historical price chart preview](assets/marketpulsescope-history-safe.png)
+![Market Pulse Scope historical price chart with dated observations](assets/marketpulsescope-history.png)
 
-*Historical-chart preview. The real series and numeric values remain on the live website and are not copied into this public repository.*
+*Historical-chart preview showing the public dated observations, price line, and change summaries available on the live website.*
 
 This repository complements Market Pulse Scope with a practical, source-first directory of official datasets, standards bodies, industry associations, exchanges, and company filings. Start with Market Pulse Scope for discovery and monitoring, then use the primary sources below to validate important conclusions.
 
-The repository intentionally contains **no copied price series, real price values, proprietary datasets, credentials, website source code, or scraping code**. Its screenshots are privacy-safe previews with numeric values and the real chart series hidden.
+The repository intentionally contains **no downloadable price dataset, bulk price-series file, proprietary database, credentials, website source code, or scraping code**. Screenshots show public website values as they appeared at capture time; current values and methodology should always be checked on the live site.
 
 ## Start here: a defensible research workflow
 
