@@ -1,28 +1,54 @@
-# MarketPulseScope + Awesome Market Data Resources
+# Awesome Market Data Resources
 
-## Explore historical data and price trends with Market Pulse Scope
+A practical directory for researching commodities, electronic components, and shipbuilding markets, with a visual guide to the free price-history and analysis tools on **Market Pulse Scope**.
 
-[**Open Market Pulse Scope →**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
+[**Explore Market Pulse Scope**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [**Try the free tools**](https://marketpulsescope.com/tools/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [**Feature guide with screenshots**](docs/market-pulse-scope.md) · [**Data resource directory**](#start-here-a-defensible-research-workflow)
 
-**Market Pulse Scope** is a multilingual market-intelligence website built for exploring historical price data, visualizing price trends, and following market news across electronics, commodities, and shipbuilding. Use it to:
+## Featured: Market Pulse Scope
 
-- browse historical observations and visualize price trends across multiple time ranges;
-- review recent and longer-term change summaries, then inspect dated records in a historical table;
-- follow electronics and memory-market developments alongside commodity and maritime signals;
-- use the live charts as a starting point for deeper, source-aware research;
-- move between English, Chinese, Japanese, Spanish, Korean, and French views.
+**From price lookup to price analysis.**
 
-![Market Pulse Scope dashboard with public market values and trend charts](assets/marketpulsescope-dashboard.png)
+Browse available historical prices online for free, compare market trends, work through purchasing calculations, and convert price units and currencies in your browser.
 
-*Public website preview showing market values and trend sparklines visible on Market Pulse Scope at capture time.*
+Market Pulse Scope covers commodities, electronic components, and shipbuilding prices. Coverage and available history vary by product and region. The site supports English, Chinese, Japanese, Spanish, Korean, and French.
 
-![Market Pulse Scope historical price chart with dated observations](assets/marketpulsescope-history.png)
+This directory is maintained by the creator of Market Pulse Scope. The website is featured here as an independently developed research tool, not as an endorsement by any resource listed below.
 
-*Historical-chart preview showing the public dated observations, price line, and change summaries available on the live website.*
+![Market Pulse Scope homepage with free tool links, weekly movers, commodity prices, market news, and five-year recorded-price watch](assets/marketpulsescope-home-tools.png)
 
-This repository complements Market Pulse Scope with a practical, source-first directory of official datasets, standards bodies, industry associations, exchanges, and company filings. Start with Market Pulse Scope for discovery and monitoring, then use the primary sources below to validate important conclusions.
+*Local application preview captured in October 2026. Quotes are dated observations, not a live market feed; production appearance and data may differ.*
 
-The repository intentionally contains **no downloadable price dataset, bulk price-series file, proprietary database, credentials, website source code, or scraping code**. Screenshots show public website values as they appeared at capture time; current values and methodology should always be checked on the live site.
+### Five free price analysis tools
+
+| Tool | What you can do | Open |
+| --- | --- | --- |
+| **Price Trend Comparison** | Compare up to five markets in one chart. Switch between actual prices and cumulative percentage changes. | [Compare trends](https://marketpulsescope.com/tools/price-trend-comparison/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Commodity Price Converter** | Convert price units and currencies. Use reference or manual FX, and explicit physical assumptions where needed. | [Convert a price](https://marketpulsescope.com/tools/commodity-price-converter/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Commodity Price Calculator** | Calculate purchase costs from quantity, unit price, and optional freight. | [Calculate a cost](https://marketpulsescope.com/tools/commodity-price-calculator/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Historical Price Comparison** | Compare two quote dates or overlay two historical periods on one elapsed-time chart. | [Compare history](https://marketpulsescope.com/tools/historical-price-comparison/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Price Change Calculator** | Calculate absolute and percentage price changes from entered values or available recorded quotes. | [Calculate a change](https://marketpulsescope.com/tools/price-change-calculator/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+
+![Price Trend Comparison showing copper and silver cumulative percentage changes over the same historical period](assets/marketpulsescope-trend-comparison.png)
+
+*Compare recorded movements, not forecasts. Normalized percentage changes share a baseline; actual prices can use separate scales when units or currencies differ.*
+
+[**See every tool with screenshots and example workflows**](docs/market-pulse-scope.md)
+
+### More than a chart
+
+- **Historical prices:** inspect available dated observations, zoom and pan through charts, and switch between regions when quoted data is available.
+- **Five-year price watch:** explore commodities near their recorded five-year high or low, with separate high/low views. This uses available regional observations, not a guarantee of complete market history or a trading signal.
+- **Weekly movers:** scan gainers and losers alongside price tables and compact trend charts.
+- **Search and context:** search prices and onsite news, and follow market developments alongside the data.
+- **Personal watchlist:** keep selected markets close at hand, with account-linked selections for signed-in users.
+
+### Free access, clear limits
+
+Online viewing of available price history and use of the five tools are currently free. CSV downloads still require an account and are subject to the website's daily limits. Free viewing does not grant rights to bulk scraping, database copying, or commercial redistribution. Read the [data-use terms](https://marketpulsescope.com/data-license).
+
+Calculations are for reference, not market quotations or financial or purchasing advice. Data may be delayed, incomplete, or inaccurate. This repository does **not** publish a price dataset, database, website source code, API credentials, or scraping code.
+
+The resource directory below complements the website with official datasets, standards bodies, industry associations, exchanges, and filings. Consult original publishers and their current terms before relying on a figure.
 
 ## Start here: a defensible research workflow
 
@@ -102,4 +128,5 @@ Suggestions are welcome when a resource has a clear publisher, durable URL, docu
 ## Disclaimer
 
 This directory is for research and education. Inclusion does not imply endorsement. Availability, licensing, and methodology can change. Always review the publisher's current terms and documentation. Nothing here is financial, investment, procurement, or trading advice.
+
 
