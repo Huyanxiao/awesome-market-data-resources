@@ -1,6 +1,6 @@
 # Awesome Market Data Resources
 
-A practical directory for researching commodities, electronic components, and shipbuilding markets, with a visual guide to the free price-history and analysis tools on **Market Pulse Scope**.
+A practical directory for researching commodities, electronic products and components, ocean freight, and shipbuilding markets, with a visual guide to the free price-history and analysis tools on **Market Pulse Scope**.
 
 [**Explore Market Pulse Scope**](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [**Try the free tools**](https://marketpulsescope.com/tools/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [**Feature guide with screenshots**](docs/market-pulse-scope.md) · [**Data resource directory**](#start-here-a-defensible-research-workflow)
 
@@ -10,15 +10,25 @@ A practical directory for researching commodities, electronic components, and sh
 
 Browse available historical prices online for free, compare market trends, work through purchasing calculations, and convert price units and currencies in your browser.
 
-Market Pulse Scope covers commodities, electronic components, and shipbuilding prices. Coverage and available history vary by product and region. The site supports English, Chinese, Japanese, Spanish, Korean, and French.
+Market Pulse Scope covers commodity prices, electronic-product and component prices, ocean freight and shipping rates, vessel newbuilding prices, and published shipbuilding order statistics. Coverage and available history vary by product, route, reporting entity, and region. The site supports English, Chinese, Japanese, Spanish, Korean, and French.
 
 This directory is maintained by the creator of Market Pulse Scope. The website is featured here as an independently developed research tool, not as an endorsement by any resource listed below.
+
+### Current market coverage
+
+- **Commodities:** energy, precious metals, base metals and steel, fertilizers, agriculture, livestock, and industrial materials.
+- **Electronic products and components:** DRAM, NAND flash, SSDs, mobile and removable storage, and other electronics, with specification- and region-level series where available.
+- **Ocean freight:** recorded LPG route assessments, LNG charter hire, tanker voyage prices, and dry-bulk freight by route.
+- **Vessel newbuilding:** recorded newbuilding price benchmarks for selected tanker, dry-bulk, container, and gas-carrier specifications.
+- **Ship orders:** published national and company series for new orders, orderbooks, and completions, filterable by country, reporting entity, metric, and ship type. These series use different scopes and units and are not a global vessel-level orderbook.
+
+[Browse commodities](https://marketpulsescope.com/prices/commodities/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse electronics](https://marketpulsescope.com/prices/electronics/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse ocean freight](https://marketpulsescope.com/prices/freight/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse newbuilding prices](https://marketpulsescope.com/prices/shipping/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse ship orders](https://marketpulsescope.com/ship-orders/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
 
 ![Market Pulse Scope homepage with free tool links, weekly movers, commodity prices, market news, and five-year recorded-price watch](assets/marketpulsescope-home-tools.png)
 
 *Local application preview captured in October 2026. Quotes are dated observations, not a live market feed; production appearance and data may differ.*
 
-### Five free price analysis tools
+### Five core market-data tools
 
 | Tool | What you can do | Open |
 | --- | --- | --- |
@@ -27,6 +37,8 @@ This directory is maintained by the creator of Market Pulse Scope. The website i
 | **Commodity Price Calculator** | Calculate purchase costs from quantity, unit price, and optional freight. | [Calculate a cost](https://marketpulsescope.com/tools/commodity-price-calculator/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
 | **Historical Price Comparison** | Compare two quote dates or overlay two historical periods on one elapsed-time chart. | [Compare history](https://marketpulsescope.com/tools/historical-price-comparison/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
 | **Price Change Calculator** | Calculate absolute and percentage price changes from entered values or available recorded quotes. | [Calculate a change](https://marketpulsescope.com/tools/price-change-calculator/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+
+The tools hub also links to dedicated calculators for selected commodities, including copper, aluminum, gold, silver, crude oil, natural gas, platinum, zinc, nickel, and urea. Tool outputs are calculations from entered or recorded values, not supplier quotations.
 
 ![Price Trend Comparison showing copper and silver cumulative percentage changes over the same historical period](assets/marketpulsescope-trend-comparison.png)
 
@@ -39,6 +51,7 @@ This directory is maintained by the creator of Market Pulse Scope. The website i
 - **Historical prices:** inspect available dated observations, zoom and pan through charts, and switch between regions when quoted data is available.
 - **Five-year price watch:** explore commodities near their recorded five-year high or low, with separate high/low views. This uses available regional observations, not a guarantee of complete market history or a trading signal.
 - **Weekly movers:** scan gainers and losers alongside price tables and compact trend charts.
+- **Ship-order explorer:** search and filter published new-order, orderbook, and completion series by country, reporting entity, metric, and vessel type.
 - **Search and context:** search prices and onsite news, and follow market developments alongside the data.
 - **Personal watchlist:** keep selected markets close at hand, with account-linked selections for signed-in users.
 
@@ -128,5 +141,7 @@ Suggestions are welcome when a resource has a clear publisher, durable URL, docu
 ## Disclaimer
 
 This directory is for research and education. Inclusion does not imply endorsement. Availability, licensing, and methodology can change. Always review the publisher's current terms and documentation. Nothing here is financial, investment, procurement, or trading advice.
+
+
 
 

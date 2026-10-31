@@ -2,13 +2,14 @@
 
 **Look up a price. Put it in context. Work through the calculation.**
 
-Market Pulse Scope is an independently developed website for exploring commodity, electronic-component, and shipbuilding prices. Available historical prices can be viewed online for free, and its five price-analysis tools are currently free to use.
+Market Pulse Scope is an independently developed website for exploring commodity prices, electronic-product and component prices, ocean freight and shipping rates, vessel newbuilding prices, and published shipbuilding order statistics. Available historical prices can be viewed online for free, and its five core price-analysis tools are currently free to use.
 
 [Open the website](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Open the tools](https://marketpulsescope.com/tools/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Return to the resource directory](../README.md)
 
 ## Contents
 
 - [Market overview](#market-overview)
+- [Market coverage and ship orders](#market-coverage-and-ship-orders)
 - [Historical price charts](#historical-price-charts)
 - [Price Trend Comparison](#1-price-trend-comparison)
 - [Commodity Price Converter](#2-commodity-price-converter)
@@ -33,6 +34,18 @@ Product specifications, regions, units, currencies, and quote dates matter. Two 
 
 [Explore the homepage](https://marketpulsescope.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
 
+## Market coverage and ship orders
+
+| Area | Current coverage | Browse |
+| --- | --- | --- |
+| **Commodities** | Energy, precious metals, base metals and steel, fertilizers, agriculture, livestock, and industrial materials. | [Commodity prices](https://marketpulsescope.com/prices/commodities/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Electronic products and components** | DRAM, NAND flash, SSDs, mobile and removable storage, and other electronics, with specification- and region-level series where available. | [Electronics prices](https://marketpulsescope.com/prices/electronics/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Ocean freight** | Recorded LPG route assessments, LNG charter hire, tanker voyage prices, and dry-bulk freight by route. | [Ocean freight prices](https://marketpulsescope.com/prices/freight/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Vessel newbuilding** | Recorded newbuilding price benchmarks for selected tanker, dry-bulk, container, and gas-carrier specifications. | [Newbuilding prices](https://marketpulsescope.com/prices/shipping/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+| **Ship orders** | Published national and company series for new orders, orderbooks, and completions. Search or filter by country, reporting entity, metric, and ship type. | [Ship orders](https://marketpulsescope.com/ship-orders/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) |
+
+Ship-order series may be monthly or annual and may report vessels, DWT, CGT, or another published unit. National and company series have different scopes; they should not be combined as if they formed a complete global vessel-level orderbook. Lines connect published observations, and missing months are not filled.
+
 ## Historical price charts
 
 Open a product to inspect its available recorded history. Zoom or pan through the chart, review dated observations and change summaries, and switch regions when that product has displayable quotes for another region. A searchable product browser helps you move between markets.
@@ -43,7 +56,7 @@ Open a product to inspect its available recorded history. Zoom or pan through th
 
 *Local preview of a commodity price-detail page. History coverage varies by series.*
 
-[Browse commodity prices](https://marketpulsescope.com/prices/commodities/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse electronics prices](https://marketpulsescope.com/prices/electronics/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse shipbuilding prices](https://marketpulsescope.com/prices/shipping/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
+[Browse commodity prices](https://marketpulsescope.com/prices/commodities/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse electronics prices](https://marketpulsescope.com/prices/electronics/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse ocean freight prices](https://marketpulsescope.com/prices/freight/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Browse newbuilding prices](https://marketpulsescope.com/prices/shipping/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources)
 
 ## 1. Price Trend Comparison
 
@@ -161,3 +174,5 @@ For suggestions about this directory or guide, [open a GitHub issue](https://git
 Please do not include credentials, private account information, copied proprietary datasets, or confidential business material in a public issue.
 
 [Explore the free tools](https://marketpulsescope.com/tools/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Back to the directory](../README.md)
+
+
