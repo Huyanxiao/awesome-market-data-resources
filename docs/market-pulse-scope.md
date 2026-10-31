@@ -174,5 +174,3 @@ For suggestions about this directory or guide, [open a GitHub issue](https://git
 Please do not include credentials, private account information, copied proprietary datasets, or confidential business material in a public issue.
 
 [Explore the free tools](https://marketpulsescope.com/tools/?utm_source=github&utm_medium=referral&utm_campaign=awesome_market_data_resources) · [Back to the directory](../README.md)
-
-

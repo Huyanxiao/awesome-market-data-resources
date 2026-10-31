@@ -143,5 +143,3 @@ Suggestions are welcome when a resource has a clear publisher, durable URL, docu
 This directory is for research and education. Inclusion does not imply endorsement. Availability, licensing, and methodology can change. Always review the publisher's current terms and documentation. Nothing here is financial, investment, procurement, or trading advice.
 
 
-
-
